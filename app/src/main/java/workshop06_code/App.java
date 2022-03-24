@@ -22,8 +22,8 @@ public class App {
     static {
         // must set before the Logger
         // loads logging.properties from the classpath
-        try {// resources\logging.properties
-            LogManager.getLogManager().readConfiguration(new FileInputStream("resources/logging.properties"));
+        try (FileInputStream logFile =new FileInputStream("resources/logging.properties")){// resources\logging.properties
+            LogManager.getLogManager().readConfiguration(logFile);
         } catch (SecurityException | IOException e1) {
             e1.printStackTrace();
         }
