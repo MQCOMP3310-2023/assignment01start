@@ -15,7 +15,8 @@ import java.util.logging.Logger;
  * @author comp3310 with input from sqlitetutorial.net
  * 
  * Note, this is not a fully correct solution to the week 5 workshop. 
- * It still contains quite a few issues to be found.
+ * It still contains quite a few issues to be found. 
+ * It has been modified to include a few more issues.
  */
 public class App {
 
