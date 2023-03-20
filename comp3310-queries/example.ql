@@ -1,4 +1,9 @@
-
+/**
+ * @name Comp3310 Example
+ * @kind problem
+ * @problem.severity warning
+ * @id java/example/empty-block
+ */
 
 import java
 
