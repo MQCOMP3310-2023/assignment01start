@@ -1,3 +1,3 @@
-﻿# Workshop 6 COMP3310
+﻿# Assignment 01
  
- ## Code for codeQL exercises.
+ ## Code to analyse
