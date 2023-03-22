@@ -1,4 +1,4 @@
-package workshop06_code;
+package assignment01;
 
 import java.sql.Connection;
 import java.sql.DatabaseMetaData;

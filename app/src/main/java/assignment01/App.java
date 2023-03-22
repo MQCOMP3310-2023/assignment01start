@@ -1,4 +1,4 @@
-package workshop06_code;
+package assignment01;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
