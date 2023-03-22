@@ -145,7 +145,7 @@ public class SQLiteConnectionManager {
                 result = cursor.getString(1);
             }
         } catch (SQLException e) {
-            System.out.println(e);
+            System.out.println(e.getMessage());
         }
         
 
